@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DevcampViewTool::Renderer.copyright 'Eugene Isaichenko', 'All rights reserved'
+AiverViewTool::Renderer.copyright 'Eugene Isaichenko', 'All rights reserved'
 ```
 
 ## Development
